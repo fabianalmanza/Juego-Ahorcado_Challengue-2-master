@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![video-to-gif-converter]([https://i.ibb.co/pZH0d2t/3-1.gif](https://i.ibb.co/pZH0d2t/3-1.gif))
+!([https://i.ibb.co/pZH0d2t/3-1.gif](https://i.ibb.co/pZH0d2t/3-1.gif))
   
 </div>
 
