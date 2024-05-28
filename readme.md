@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![video-to-gif-converter]([https://user-images.githubusercontent.com/42880872/152217728-7ac7fa47-2d91-485d-a082-d385b91a71ea.gif](https://i.ibb.co/pZH0d2t/3-1.gif))
+![video-to-gif-converter]([https://i.ibb.co/pZH0d2t/3-1.gif](https://i.ibb.co/pZH0d2t/3-1.gif))
   
 </div>
 
