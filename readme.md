@@ -2,7 +2,11 @@
 
 <div align="center">
   
-!([https://i.ibb.co/pZH0d2t/3-1.gif](https://i.ibb.co/pZH0d2t/3-1.gif))
+            <img
+                  className="experiencia__contenido__img"
+                  src="https://i.ibb.co/pZH0d2t/3-1.gif"
+                  alt="Proyecto Wordle Clone"
+                />
   
 </div>
 
