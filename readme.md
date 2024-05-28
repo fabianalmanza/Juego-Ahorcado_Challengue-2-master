@@ -2,7 +2,8 @@
 
 <div align="center">
   
-           ![Proyecto Ahorcado](https://i.ibb.co/pZH0d2t/3-1.gif)
+<img src="https://i.ibb.co/pZH0d2t/3-1.gif" alt="Proyecto Wordle Clone" style="display: block; margin: 0 auto;" />
+
 
   
 </div>
